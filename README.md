@@ -10,6 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 Notes :
 
-ReWrite previous Commit :   git commit --amend -m"Message"
+1.  ReWrite previous Commit :   git commit --amend -m"Message"
 
-
+2.  Git Ignore   : touch .gitignore
