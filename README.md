@@ -13,3 +13,5 @@ Notes :
 1.  ReWrite previous Commit :   git commit --amend -m"Message"
 
 2.  Git Ignore   : touch .gitignore
+
+https://automattic.github.io/kue/
