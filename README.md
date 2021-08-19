@@ -10,6 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 Notes :
 
-ReWrite previous Commit :    APIs (making APIs and JWT authentication)
+ReWrite previous Commit :   git commit --amend -m"Message"
 
 
