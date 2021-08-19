@@ -15,3 +15,8 @@ Notes :
 2.  Git Ignore   : touch .gitignore
 
 https://automattic.github.io/kue/
+
+ ./node_mod
+ules/kue/bin/kue-dashboard
+Running on http://127.0.0.1:3000
+
