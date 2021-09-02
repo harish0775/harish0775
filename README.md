@@ -19,7 +19,9 @@ git push --force
 npm cache clear
 npm uninstall fireb
 
-
+npx create-react-app Shopping-Cart-App
+cd Shopping-Cart-App
+npm start
 
 
 
