@@ -16,6 +16,8 @@ You can click the Preview link to take a look at your changes.
 
 git push --force
 
+npm cache clear
+npm uninstall fireb
 
 
 
