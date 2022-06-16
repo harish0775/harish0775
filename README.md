@@ -4,6 +4,24 @@
 - 💞️ I’m looking to collaborate on GSOC
 - 📫 How to reach me ...
 
+
+
+Kill Nodejs Background running Port:
+                                      sudo kill -9 $(sudo lsof -t -i:7000)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!---
 harish0775/harish0775 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
