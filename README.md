@@ -32,6 +32,7 @@ when Nodemon crash or already Run :pkill -f node
   Git add
 
 git push --force
+
 npm i --legacy-peer-deps
 
 npm cache clear
