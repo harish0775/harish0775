@@ -33,6 +33,8 @@ when Nodemon crash or already Run :pkill -f node
 
 git push --force
 
+ng serve --host 192.168.1.50 --port 4200
+
 npm i --legacy-peer-deps
 
 npm cache clear
