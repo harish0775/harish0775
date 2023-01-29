@@ -6,9 +6,48 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Kill Nodejs Background running Port:
                                       sudo kill -9 $(sudo lsof -t -i:7000)
 
+
+
+
+Create ParCreate Partition on an pendrive:
+
+
+sudo umount /dev/sdb1
+sudo fdisk /dev/sdb
+
+p
+deletel all partition
+d
+confirm w
+
+create new partition n 
+view p
+y
+w
+partition of penddrive or delelete:
+
+
+_____________________________________________
 
 
 
