@@ -25,6 +25,7 @@
 
 Kill Nodejs Background running Port:
                                       sudo kill -9 $(sudo lsof -t -i:7000)
+Kill port in window  :  taskkill /F /IM node.exe
 
 
 
