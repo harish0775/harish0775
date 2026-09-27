@@ -2,7 +2,7 @@
 
 # Harish Nishad
 
-**Senior Software Engineer** · Backend & Full-Stack Developer  
+**Senior Software Engineer** · Backend & Full-Stack Developer
 Delhi NCR, India
 
 `Node.js` · `Express.js` · `Angular` · `React` · `MySQL` · `Redis` · `Docker` · `AWS`
@@ -27,3 +27,11 @@ I build reliable full-stack web applications, REST APIs, database-driven workflo
 ### Current Focus
 
 Building scalable Node.js + MySQL applications and improving system design skills.
+
+---
+
+<div align="center">
+
+📫 Let's connect and collaborate on backend & full-stack projects.
+
+</div>
